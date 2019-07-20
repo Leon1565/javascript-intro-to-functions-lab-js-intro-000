@@ -22,9 +22,9 @@ function sayHiToGrandma(string){
     return "YES INDEED!";
   }
   else if(string === string){
-    return "I love you, too";
+    return "I love you, too.";
   }
 }
 sayHiToGrandma('hello');
 sayHiToGrandma('HELLO');
-sayHiToGrandma("I love you");
+sayHiToGrandma("I love you.");
